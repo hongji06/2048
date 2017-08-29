@@ -1,7 +1,7 @@
 package com.bjsxt.game;
 
 public class Move {
-
+	
 	public static boolean moveBoo = false; // 记录是否出现移动的布尔值
 	// 向左对齐的方法
 
